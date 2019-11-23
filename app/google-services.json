@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "161898046521",
+    "firebase_url": "https://signoffsession.firebaseio.com",
+    "project_id": "signoffsession",
+    "storage_bucket": "signoffsession.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161898046521:android:8d8b76270a38777be459e8",
+        "android_client_info": {
+          "package_name": "com.example.studentside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161898046521-5j8070oq4s1cf967s6dmhkh2old9m1ih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentside",
+            "certificate_hash": "0908215a7427d46a0c7e1603321b943361fcab9d"
+          }
+        },
+        {
+          "client_id": "161898046521-sp6qiqrp5ivq625jprs22uv4f5dak1tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgquPSoI63YOR5shpEX5VeWc4oXKJZTrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161898046521-sp6qiqrp5ivq625jprs22uv4f5dak1tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161898046521:android:4e485eb4d87ad99de459e8",
+        "android_client_info": {
+          "package_name": "sampleapplication.parzival.com.sampleapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161898046521-ubpucfb8mjtl7hrcvh0do7bigmcbqueq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sampleapplication.parzival.com.sampleapplication",
+            "certificate_hash": "0908215a7427d46a0c7e1603321b943361fcab9d"
+          }
+        },
+        {
+          "client_id": "161898046521-sp6qiqrp5ivq625jprs22uv4f5dak1tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgquPSoI63YOR5shpEX5VeWc4oXKJZTrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161898046521-sp6qiqrp5ivq625jprs22uv4f5dak1tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
